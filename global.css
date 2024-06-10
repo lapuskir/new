@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-euclid-circular-a: "Euclid Circular A";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-45xl: 64px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-29xl: 48px;
+  --font-size-77xl: 96px;
+  --font-size-sm: 14px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --style: #eee;
+  --color: #000;
+  --color-gray-100: rgba(0, 0, 0, 0.45);
+  --color-gray-200: rgba(255, 255, 255, 0.3);
+  --color-gray-300: rgba(255, 255, 255, 0.9);
+  --main: #ce2127;
+  --ffffff: #fff;
+  --color-silver: #c4c4c4;
+
+  /* Gaps */
+  --gap-31xl: 50px;
+  --gap-11xl: 30px;
+  --gap-xl: 20px;
+  --gap-3xs: 10px;
+  --gap-21xl: 40px;
+  --gap-mini: 15px;
+  --gap-8xs: 5px;
+  --gap-4xs: 9px;
+
+  /* Paddings */
+  --padding-31xl: 50px;
+  --padding-11xl: 30px;
+  --padding-3xs: 10px;
+  --padding-21xl: 40px;
+  --padding-xl: 20px;
+
+  /* Border radiuses */
+  --br-31xl: 50px;
+  --br-11xl: 30px;
+  --br-3xs: 10px;
+  --br-281xl: 300px;
+  --br-81xl: 100px;
+  --br-xl: 20px;
+
+  /* Effects */
+  --background-blur: blur(20px);
+  --drop-shadow: 0px 20px 50px rgba(0, 0, 0, 0.15);
+}
+    
